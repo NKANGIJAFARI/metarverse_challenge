@@ -18,7 +18,12 @@ export default function Home() {
       </Head>
 
       <div className='w-full h-screen relative'>
-        <Image src='/Metaverse-virtual.jpg' layout='fill' objectFit='cover' />
+        <Image
+          src='/Metaverse-virtual.jpg'
+          layout='fill'
+          objectFit='cover'
+          alt='bgpic'
+        />
         <div
           className='bg-white p-20 flex flex-col justify-center align-center h-200 absolute'
           style={{
