@@ -16,6 +16,7 @@ const Login = () => {
           src='https://links.papareact.com/3pi'
           height={200}
           width={200}
+          alt="meta's logo"
         />
 
         <button
@@ -30,6 +31,7 @@ const Login = () => {
           src='https://links.papareact.com/55n'
           layout='fill'
           objectFit='cover'
+          alt="meta's background"
         />
       </div>
     </div>
